@@ -22,7 +22,6 @@ function Home() {
       </Container>
       <Footer />
     </>
-    
   );
 }
 
