@@ -9,7 +9,7 @@ function Home() {
   return (
     <>
       <Header />
-      <Banner image="favoritos" />
+      <Banner image="favoritos"/>
       <Container>
 
         {

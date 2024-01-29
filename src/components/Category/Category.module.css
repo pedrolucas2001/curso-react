@@ -8,8 +8,10 @@
     flex-wrap: wrap;
     justify-content: center;
     gap: 20px;
+    padding-block: 1rem;
 }
 
 .category h1 {
     font-size: 30px;
+    padding-block: 2rem 1rem;
 }
